@@ -1,8 +1,4 @@
-.description__heading {
+.lead__heading {
   margin: 56px auto 0;
-  padding: 0 calc(720px-658px);
-  text-align: center;
-  line-height: 100px;
-  font-size: 96px;
-  font-weight: 900;
+  max-width: 720px;
 }
