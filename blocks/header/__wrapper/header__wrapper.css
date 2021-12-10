@@ -1,0 +1,8 @@
+.header__wrapper {
+  margin: 0 auto;
+  max-width: 1280px;
+  padding: 28px 48px 0;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}

@@ -9,7 +9,7 @@
   width: 100%;
 }
 
-/*.cover__link::before {
+.cover__link::before {
   content: "";
   display: block;
   background-color: #2a2c2f;
@@ -23,4 +23,5 @@
 
 .cover__link:hover::before {
   opacity: 0.8;
+  transition: 0.5s;
 }

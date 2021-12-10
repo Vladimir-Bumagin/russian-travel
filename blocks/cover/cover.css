@@ -1,7 +1,6 @@
 .cover {
   box-sizing: border-box;
   max-width: 1184px;
-  max-height: 740px;
   margin: 88px auto 0;
   background-image: url(../../../images/trains_background.png);
   background-position: center;
