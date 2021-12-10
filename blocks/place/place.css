@@ -1,3 +1,6 @@
 .place {
   display: grid;
+  grid-template-columns: calc(50% - 24px) calc(50%);
+
+  gap: 48px 40px;
 }
