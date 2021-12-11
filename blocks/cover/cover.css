@@ -17,3 +17,20 @@
   height: 0;
   padding-top: 62.5%;
 }
+@media screen and (max-width: 1030px) {
+  .cover {
+    margin-top: 92px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    margin-top: 90px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    margin-top: 66px;
+  }
+}

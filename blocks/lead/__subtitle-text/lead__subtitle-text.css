@@ -5,3 +5,10 @@
   font-weight: 400;
   text-align: center;
 }
+
+@media screen and (max-width: 320px) {
+  .lead__subtitle-text {
+    line-height: 20px;
+    font-size: 16px;
+  }
+}

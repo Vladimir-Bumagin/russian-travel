@@ -1,3 +1,10 @@
 .footer__list-item {
   display: inline;
 }
+
+@media screen and (max-width: 320px) {
+  .footer__list-item {
+    display: flex;
+    padding-bottom: 32px;
+  }
+}

@@ -5,3 +5,17 @@
   font-weight: 900;
   text-align: center;
 }
+
+@media screen and (max-width: 600px) {
+  .cover__title {
+    line-height: 13vw;
+    font-size: 12vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__title {
+    line-height: 35px;
+    font-size: 32px;
+  }
+}
