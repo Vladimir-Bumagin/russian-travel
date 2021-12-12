@@ -7,7 +7,7 @@
   padding-right: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 545px) {
   .footer__list-item {
     display: flex;
     padding-bottom: 32px;
