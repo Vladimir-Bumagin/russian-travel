@@ -12,4 +12,6 @@
 CSS для создания адаптивного сайта под разные разрешения экрана,  
 в т.ч медиазапросы.
 
-### Ссылка на проект на Github Pages
+### Ссылка на проект на GitHub Pages
+
+{https://vladimir-bumagin.github.io/russian-travel/}
