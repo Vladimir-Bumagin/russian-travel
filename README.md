@@ -14,4 +14,4 @@ CSS для создания адаптивного сайта под разны�
 
 ### Ссылка на проект на GitHub Pages
 
-{https://vladimir-bumagin.github.io/russian-travel/index.html}
+[https://vladimir-bumagin.github.io/russian-travel/index.html]
