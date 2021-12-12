@@ -16,11 +16,6 @@
   .place__title {
     line-height: 35px;
     font-size: 32px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .place__title {
     padding-left: 16px;
     padding-right: 16px;
   }

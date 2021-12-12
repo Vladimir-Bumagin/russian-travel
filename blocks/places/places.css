@@ -8,7 +8,7 @@
     padding: 0 24px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 325px) {
   .places {
     margin-top: 64px;
     padding: 0;
